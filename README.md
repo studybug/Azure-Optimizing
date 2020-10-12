@@ -53,16 +53,16 @@ Area for improvement:**
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
 **Image of cluster marked for deletion**
 
-I could not download the best preforming model within the time contraints, however, here are some snapshots from the program between the two comparisons:
+I could not download the best preforming model within the time contraints, however, here are some snapshots from the program between the two comparisons (also see snapshot folder):
 
 Azure workspace model:
-
+![Test Image 1](https://github.com/studybug/snapshots/Azure-Optimizing/Azure_Hyper_Run.jpg)
 Azure workspace model key features:
-
+![Test Image 1](Modelrank.jpg)
 Notebook based workspace model:
-
+![Test Image 1](coderun2.jpg)
 Notebook based workspace key features:
-
+![Test Image 1](coderun3.jpg)
 
 
 
