@@ -56,13 +56,13 @@ Area for improvement:**
 I could not download the best preforming model within the time contraints, however, here are some snapshots from the program between the two comparisons (also see snapshot folder):
 
 Azure workspace model:
-![Test Image 1](https://github.com/studybug/Azure-Optimizing/snapshots/Azure_Hyper_Run.jpg)
+![Test Image 1](https://github.com/studybug/Azure-Optimizing/blob/main/snapshots/Azure_Hyper_Run.JPG)
 Azure workspace model key features:
-![Test Image 1](Modelrank.jpg)
+![Test Image 1](https://github.com/studybug/Azure-Optimizing/blob/main/snapshots/Modelrank.JPG)
 Notebook based workspace model:
-![Test Image 1](coderun2.jpg)
+![Test Image 1](https://github.com/studybug/Azure-Optimizing/blob/main/snapshots/coderun2.JPG)
 Notebook based workspace key features:
-![Test Image 1](coderun3.jpg)
+![Test Image 1](https://github.com/studybug/Azure-Optimizing/blob/main/snapshots/coderun3.JPG)
 
 
 
