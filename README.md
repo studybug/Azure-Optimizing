@@ -58,7 +58,7 @@ I could not download the best preforming model within the time contraints, howev
 Azure workspace model:
 ![Test Image 1](https://github.com/studybug/Azure-Optimizing/blob/main/snapshots/Azure_Hyper_Run.JPG)
 Azure workspace model key features:
-![Test Image 1](https://github.com/studybug/Azure-Optimizing/blob/main/snapshots/Modelrank.JPG)
+![Test Image 1](https://github.com/studybug/Azure-Optimizing/blob/main/snapshots/run49.JPG)
 Notebook based workspace model:
 ![Test Image 1](https://github.com/studybug/Azure-Optimizing/blob/main/snapshots/coderun2.JPG)
 Notebook based workspace key features:
